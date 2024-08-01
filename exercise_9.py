@@ -3,3 +3,7 @@
 def hello():
     """ Will print out hello """
     print("Hello")
+
+def goodbye():
+    """ Will print out goodbye """
+    print("Goodbye")
