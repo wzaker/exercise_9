@@ -7,3 +7,8 @@ def hello():
 def goodbye():
     """ Will print out goodbye """
     print("Goodbye")
+
+def thank_you():
+    """ Will print out thank you """
+    print("Thank you")
+
